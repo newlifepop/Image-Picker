@@ -1,0 +1,1 @@
+export const PICK_IMAGE = 'PICK_IMAGE';
